@@ -1,0 +1,4 @@
+﻿  MineSweeper.cpp
+e:\stockage_projet\c++\minesweeper\minesweeper\minesweeper\board.h(2): warning C4081: expected 'identifier'; found 'string'
+e:\stockage_projet\c++\minesweeper\minesweeper\minesweeper\minesweeper.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MineSweeper.vcxproj -> E:\Stockage_projet\C++\minesweeper\MineSweeper\Debug\MineSweeper.exe
